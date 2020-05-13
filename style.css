@@ -27,4 +27,5 @@ background: linear-gradient(to right, #75cada, #ccafe0);
 label,input{
     vertical-align: middle;
     display: inline-block;
+    padding-bottom:10px
 }
