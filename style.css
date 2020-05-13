@@ -14,6 +14,7 @@ background: linear-gradient(to right, #75cada, #ccafe0);
     font-size: x-large;
     font-weight: bolder;
     padding-left: 10px ;
+    padding-bottom: 30px;
 }
 .checkbox{
     height: 1cm;
@@ -27,5 +28,4 @@ background: linear-gradient(to right, #75cada, #ccafe0);
 label,input{
     vertical-align: middle;
     display: inline-block;
-    padding-bottom:30px
 }
