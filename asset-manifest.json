@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/firstReact/static/js/main.224c09e8.chunk.js",
-    "main.js.map": "/firstReact/static/js/main.224c09e8.chunk.js.map",
-    "runtime-main.js": "/firstReact/static/js/runtime-main.71edcf2b.js",
-    "runtime-main.js.map": "/firstReact/static/js/runtime-main.71edcf2b.js.map",
-    "static/css/2.de424728.chunk.css": "/firstReact/static/css/2.de424728.chunk.css",
-    "static/js/2.81410f55.chunk.js": "/firstReact/static/js/2.81410f55.chunk.js",
-    "static/js/2.81410f55.chunk.js.map": "/firstReact/static/js/2.81410f55.chunk.js.map",
-    "index.html": "/firstReact/index.html",
-    "precache-manifest.6f686333e2583aa6125d61547a28e8ea.js": "/firstReact/precache-manifest.6f686333e2583aa6125d61547a28e8ea.js",
-    "service-worker.js": "/firstReact/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/firstReact/static/css/2.de424728.chunk.css.map",
-    "static/js/2.81410f55.chunk.js.LICENSE.txt": "/firstReact/static/js/2.81410f55.chunk.js.LICENSE.txt"
+    "main.js": "/todoreact_1/static/js/main.224c09e8.chunk.js",
+    "main.js.map": "/todoreact_1/static/js/main.224c09e8.chunk.js.map",
+    "runtime-main.js": "/todoreact_1/static/js/runtime-main.71edcf2b.js",
+    "runtime-main.js.map": "/todoreact_1/static/js/runtime-main.71edcf2b.js.map",
+    "static/css/2.de424728.chunk.css": "/todoreact_1/static/css/2.de424728.chunk.css",
+    "static/js/2.81410f55.chunk.js": "/todoreact_1/static/js/2.81410f55.chunk.js",
+    "static/js/2.81410f55.chunk.js.map": "/todoreact_1/static/js/2.81410f55.chunk.js.map",
+    "index.html": "/todoreact_1/index.html",
+    "precache-manifest.6f686333e2583aa6125d61547a28e8ea.js": "/todoreact_1/precache-manifest.6f686333e2583aa6125d61547a28e8ea.js",
+    "service-worker.js": "/todoreact_1/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/todoreact_1/static/css/2.de424728.chunk.css.map",
+    "static/js/2.81410f55.chunk.js.LICENSE.txt": "/todoreact_1/static/js/2.81410f55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.71edcf2b.js",
